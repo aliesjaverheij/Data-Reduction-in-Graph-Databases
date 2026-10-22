@@ -1,0 +1,15 @@
+{
+ "fraction": 0.6631884181921301,
+ "coverage": 0.9785867237687366,
+ "objective": 0.8200497453595913,
+ "method": "greedy",
+ "budget": 0.1,
+ "alpha": 1.0,
+ "graphs": 9300,
+ "selected": 930,
+ "distinct_queries": 500,
+ "partitions": 8,
+ "seconds_scoring": 16.8,
+ "seconds_selection": 1.54,
+ "seconds_total": 18.34
+}
